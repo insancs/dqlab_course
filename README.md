@@ -1,2 +1,2 @@
 # dqlab_course
-Ini adalah DQLab modelu
+Ini adalah DQLab module
